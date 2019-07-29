@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "测验结果",
+  "usingComponents": {
+    "van-progress": "../../../static/vant/progress/index",
+    "van-button": "../../../static/vant/button/index",
+    "van-tag": "../../../static/vant/tag/index",
+    "van-rate": "../../../static/vant/rate/index",
+    "van-cell": "../../../static/vant/cell/index",
+    "van-collapse": "../../../static/vant/collapse/index",
+    "van-collapse-item": "../../../static/vant/collapse-item/index"
+  }
+}

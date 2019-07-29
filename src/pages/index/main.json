@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类百科",
+  "usingComponents": {
+    "van-button": "../../../static/vant/button/index",
+    "van-card": "../../../static/vant/card/index",
+    "van-search": "../../../static/vant/search/index",
+    "van-dialog": "../../../static/vant/dialog/index"
+  }
+}

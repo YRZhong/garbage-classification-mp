@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "小测验",
+  "usingComponents": {
+    "van-progress": "../../../static/vant/progress/index",
+    "van-button": "../../../static/vant/button/index",
+    "van-dialog": "../../../static/vant/dialog/index",
+    "van-transition": "../../../static/vant/transition/index"
+  }
+}
